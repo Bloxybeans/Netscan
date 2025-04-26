@@ -11,15 +11,7 @@ I really dont care what you do with this
 * **Graphical User Interface (GUI):** Easy-to-use window built with Tkinter.
 * **Threading:** Network operations run in separate threads to keep the GUI responsive.
 * **Copy SSID:** Right-click on text in the output area (like an SSID) to copy it to the clipboard.
-
-## Ethical Considerations
-
-**IMPORTANT:** This tool is designed for educational purposes and basic network exploration **on networks that you own or have explicit permission to test.**
-
-* Dont use this tool to scan, ping, or attempt connections to networks or devices without the express consent of the owner.
-* Unauthorized access or testing of computer networks is illegal and unethical.
-* Be responsible and respectful of network resources and privacy.
-
+  
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local Windows machine.
