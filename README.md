@@ -1,6 +1,6 @@
 # Simple Network & Wi-Fi Analyzer (for Windows)
 
-I really dont care what you do with this
+I really dont care what you do with this, but I am obligated to ask that you use this only for ethical purposes
 
 ## Features
 
