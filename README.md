@@ -42,31 +42,3 @@ These instructions will get you a copy of the project up and running on your loc
 3.  Run the script using Python:
     ```bash
     python netscan.py
-
-## Usage
-
-The tool provides a simple GUI:
-
-1.  **IP & Port Scanner / Ping Tool:**
-    * Enter the target IP address in the "Target IP" field.
-    * For Port Scanning, enter the port range (e.g., `1-100`) in the "Port Range" field.
-    * Click "Start Port Scan" to scan for open TCP ports.
-    * Click "Start Ping (4 packets)" to send 4 ping requests to the target IP.
-    * Click "Simulate TCP Handshake" to attempt and log the connection process to the first port in the "Port Range" field.
-2.  **Wi-Fi SSID Lister:**
-    * Click "List SSIDs" to display available Wi-Fi network names in the output area (Windows only).
-3.  **Output Area:**
-    * Results from all operations will appear in the large text area.
-    * You can select text in this area (like an SSID or an IP) and right-click to "Copy Selected Text".
-4.  **Stop Current Operation:**
-    * Click the "Stop Current Operation" button to attempt to halt the currently running scan, ping, or handshake simulation.
-
-## Future Enhancements (Ideas)
-
-* Add options for continuous ping or specifying the number of pings.
-* Implement more detailed service banner grabbing.
-* Add UDP scanning capabilities.
-* Allow scanning a range of IP addresses.
-* Improve error handling and user input validation.
-* Add options to save scan results to a file.
-* Include a "Stop" button specific to each operation.
