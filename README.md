@@ -11,6 +11,8 @@ I really dont care what you do with this
 * **Graphical User Interface (GUI):** Easy-to-use window built with Tkinter.
 * **Threading:** Network operations run in separate threads to keep the GUI responsive.
 * **Copy SSID:** Right-click on text in the output area (like an SSID) to copy it to the clipboard.
+* **DNS Lookup:** Located in "Advanced Tools"
+* **Etc**
   
 ## Getting Started
 
