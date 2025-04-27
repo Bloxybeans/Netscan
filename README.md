@@ -17,9 +17,11 @@ I really dont care what you do with this
 These instructions will get you a copy of the project up and running on your local Windows machine.
 
 ### Prerequisites
-Python: The script requires a Python interpreter. Python 3.6 or later is recommended. You can download Python from python.org.
-Standard Libraries: Most of the necessary modules (subprocess, socket, threading, time, tkinter, re, platform, queue, ipaddress, json, http.client, ssl, urllib.parse) are part of Python's standard library and are included with a standard Python installation. No additional installation is needed for these.
-Third-Party Libraries: The script uses the pyperclip library, which is not included in Python's standard library. You need to install it separately.
+  Python: The script requires a Python interpreter. Python 3.6 or later is recommended. You can download Python from python.org.
+  
+  Standard Libraries: Most of the necessary modules (subprocess, socket, threading, time, tkinter, re, platform, queue, ipaddress, json, http.client, ssl, urllib.parse) are part of Python's standard library and are included with a standard Python installation. No additional installation is needed for these.
+  
+  Third-Party Libraries: The script uses the pyperclip library, which is not included in Python's standard library. You need to install it separately.
 
     pip install pyperclip
 
